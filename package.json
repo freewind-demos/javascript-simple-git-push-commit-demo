@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "demo": "mkdir local-repo && node demo.js"
+    "demo": "rm -rf local-repo && mkdir local-repo && node demo.js"
   },
   "dependencies": {
     "simple-git": "^1.96.0"
