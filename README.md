@@ -1,11 +1,10 @@
-JavaScript "simple-git" Clone Demo
-==================================
+JavaScript "simple-git" Push Commit Demo
+========================================
 
-使用"simple-git"将指定的git仓库clone到本地
+使用"simple-git"来push commit.
 
 ```
 npm install
 node run demo
 ```
 
-然后就会在`local-repo`目录下看到新clone下来的`demo-project`。
