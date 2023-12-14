@@ -1,8 +1,8 @@
 {
-  "scripts": {
-    "demo": "rm -rf local-repo && mkdir local-repo && node demo.js"
-  },
-  "dependencies": {
-    "simple-git": "^1.96.0"
-  }
+    "scripts": {
+        "start": "rm -rf local-repo && mkdir local-repo && node demo.js"
+    },
+    "dependencies": {
+        "simple-git": "^1.96.0"
+    }
 }
